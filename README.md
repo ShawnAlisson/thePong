@@ -14,7 +14,7 @@
 
 ### Built With
 
-- Express for Node.js
+- Express - Node.js
 - Socket.IO
 
 <!-- GETTING STARTED -->
